@@ -1,0 +1,18 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/xilinx_2020/Time_clock/Time_clock.srcs/sources_1/new/Clock_divider.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Clock_divider
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/xilinx_2020/Time_clock/Time_clock.srcs/sources_1/new/Decoder_2_to_4.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Decoder_2_to_4
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/xilinx_2020/Time_clock/Time_clock.srcs/sources_1/new/Decoder_BCD_to_FND.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Decoder_BCD_to_FND
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/xilinx_2020/Time_clock/Time_clock.srcs/sources_1/new/Digit_divider.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Digit_divider
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/xilinx_2020/Time_clock/Time_clock.srcs/sources_1/new/Fnd_couner.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Fnd_couner
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/xilinx_2020/Time_clock/Time_clock.srcs/sources_1/new/MUX_2_to_1.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module MUX_2_to_1
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/xilinx_2020/Time_clock/Time_clock.srcs/sources_1/new/MUX_4_to_1.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module MUX_4_to_1
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/xilinx_2020/Time_clock/Time_clock.srcs/sources_1/new/Time_clock_counter.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Time_clock_counter
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/xilinx_2020/Time_clock/Time_clock.srcs/sim_1/new/tb_top_module.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module tb_top_module
