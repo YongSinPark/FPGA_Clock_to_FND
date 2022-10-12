@@ -1,0 +1,30 @@
+Vivado Simulator 2020.1
+Copyright 1986-1999, 2001-2020 Xilinx, Inc. All Rights Reserved.
+Running: D:/xilinx2020/Vivado/2020.1/bin/unwrapped/win64.o/xelab.exe -wto a8fd5997d4364ebca58f27148b2c8f0a --incr --debug typical --relax --mt 2 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip --snapshot tb_top_module_behav xil_defaultlib.tb_top_module xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Pass Through NonSizing Optimizer
+WARNING: [VRFC 10-3091] actual bit length 1 differs from formal bit length 4 for port 'o_digitPosition' [D:/xilinx_2020/Time_clock/Time_clock.srcs/sim_1/new/tb_top_module.v:33]
+WARNING: [VRFC 10-3091] actual bit length 32 differs from formal bit length 4 for port 'i_a1' [D:/xilinx_2020/Time_clock/Time_clock.srcs/sim_1/new/tb_top_module.v:73]
+WARNING: [VRFC 10-3091] actual bit length 32 differs from formal bit length 4 for port 'i_b1' [D:/xilinx_2020/Time_clock/Time_clock.srcs/sim_1/new/tb_top_module.v:74]
+WARNING: [VRFC 10-3091] actual bit length 32 differs from formal bit length 4 for port 'i_d1' [D:/xilinx_2020/Time_clock/Time_clock.srcs/sim_1/new/tb_top_module.v:76]
+WARNING: [VRFC 10-3091] actual bit length 1 differs from formal bit length 8 for port 'o_FND_value' [D:/xilinx_2020/Time_clock/Time_clock.srcs/sim_1/new/tb_top_module.v:104]
+WARNING: [VRFC 10-3091] actual bit length 32 differs from formal bit length 4 for port 'i_a1' [D:/xilinx_2020/Time_clock/Time_clock.srcs/sim_1/new/tb_top_module.v:86]
+WARNING: [VRFC 10-3091] actual bit length 32 differs from formal bit length 4 for port 'i_b1' [D:/xilinx_2020/Time_clock/Time_clock.srcs/sim_1/new/tb_top_module.v:87]
+WARNING: [VRFC 10-3091] actual bit length 32 differs from formal bit length 4 for port 'i_d1' [D:/xilinx_2020/Time_clock/Time_clock.srcs/sim_1/new/tb_top_module.v:89]
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module xil_defaultlib.Clock_divider
+Compiling module xil_defaultlib.Fnd_couner
+Compiling module xil_defaultlib.Decoder_2_to_4
+Compiling module xil_defaultlib.Time_clock_counter
+Compiling module xil_defaultlib.Digit_divider
+Compiling module xil_defaultlib.comparator
+Compiling module xil_defaultlib.MUX_8_to_1
+Compiling module xil_defaultlib.MUX_2_to_1
+Compiling module xil_defaultlib.Decoder_BCD_to_FND
+Compiling module xil_defaultlib.tb_top_module
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot tb_top_module_behav

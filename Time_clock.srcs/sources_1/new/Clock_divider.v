@@ -14,8 +14,8 @@ module Clock_divider(
             r_counter <= 0;
         end
         else begin
-            //100_000_000 / 100_000 * 2 - 1
-            if(r_counter == 50_000 - 1) begin
+            //100_000_000 / (100_000 * 2) - 1
+            if(r_counter == 5 - 1) begin
                 r_counter <= 0;
                 r_clk = ~ r_clk;
             end
